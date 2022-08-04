@@ -1,5 +1,3 @@
 a
-bbb
+bb
 ccc
-dddd
-eeeee
